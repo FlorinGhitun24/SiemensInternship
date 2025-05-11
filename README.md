@@ -1,7 +1,7 @@
 # Siemens Internship
 Hello
 
-Here is my solution for the asynchronous problem. The ItemService class was modified with the correct solution and command line where added where explenations were necessary. 
+Here is my solution for the asynchronous problem. The ItemService class was modified with the correct solution and comment lines where added where explenations were necessary. 
 Also the ItemController class was edited asa to resolve some coding problems. Moreover three test classes were added to test functionality for the controller and service classes and 
 the regex email validation was completed in the Item class. 
 The brief explanation of the problems encountered can be found in the ItemService class or here bellow.
